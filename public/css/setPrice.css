@@ -1,0 +1,7 @@
+div[name="setPrice"]{
+    width: 70%;
+}
+
+select[name="priceType"]{
+    width: 10%;
+}
